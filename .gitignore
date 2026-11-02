@@ -1,0 +1,9 @@
+target/
+.idea/
+*.iml
+*.log
+*.class
+.env
+application-local.properties
+Thumbs.db
+Desktop.ini
